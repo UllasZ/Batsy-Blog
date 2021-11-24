@@ -1,0 +1,50 @@
+body	{
+	background-color: rgba(0, 0, 0, 0.7);
+	background-image: url('/home/ullas/Documents/Front-End Learning/images/batman-logo-bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+	}
+	
+h1	{
+	color: red; 
+	font-size: 45px; 
+	font-family: "Greta Sans Condensed Bold", "Greta Sans Bold", "sans-serif"; 
+	background-color: black; 
+	text-align: center; 
+	border: 2px solid red;
+	}
+	
+h2	 {
+	color: DarkCyan; 
+	font-size: 45px; 
+	font-family: "Greta Sans Condensed Bold", "Greta Sans Bold", "sans-serif"; 
+	background-color: black; 
+	text-align: center; 
+	border: 2px solid DarkCyan;
+	}
+	
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: brown;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
